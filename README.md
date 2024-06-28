@@ -16,16 +16,18 @@ This project implements a sentiment analysis system using various machine learni
 ## Installation
 1. Clone this repository:
 	```bash
-		git clone https://github.com/reetmitra/Twitter-Sentiment-Analysis.git
-		cd Twitter-Sentiment-Analysis
+	git clone https://github.com/reetmitra/Twitter-Sentiment-Analysis.git
+	cd Twitter-Sentiment-Analysis
 	```
 2. Create a venv (Optional):
 	```bash
-		python -m venv venv
-		source venv/bin/activate
+	python -m venv venv
+	source venv/bin/activate
 	```
 3. Install the required packages:
-	```pip install -r requirements.txt```
+	```bash
+	pip install -r requirements.txt
+ 	```
 
 ## Usage
 1. Data Processing:
