@@ -80,7 +80,5 @@ Confusion matrices for each model are saved in the `figures/` directory.
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
 ## Contact
-Your Name - your.email@example.com
-
 Project Link: [https://github.com/reetmitra/Twitter-Sentiment-Analysis](https://github.com/reetmitra/Twitter-Sentiment-Analysis)
 	   
