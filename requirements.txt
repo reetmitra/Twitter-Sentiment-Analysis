@@ -1,0 +1,13 @@
+tweepy
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+transformers
+jupyter
+
